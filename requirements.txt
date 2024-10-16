@@ -1,6 +1,7 @@
 pbkdf2
 pycryptodome
 scrypt
+setuptools
 werkzeug
 requests
 aiohttp
